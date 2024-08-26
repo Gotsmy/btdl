@@ -1,0 +1,28 @@
+#-------------------------
+Termination Status
+LOCALLY_SOLVED
+
+Time Elapsed
+3.763484001159668
+
+Objective Value
+75.49180967649724
+
+Normalized Complementary Slackness
+-0.014699728060026966
+
+Complementary Slackness per Finite Element
+[-0.01695, -0.01245]
+
+Feed Rate
+0.189
+
+Growth Rates [h-1]
+[0.189, 0.005]
+
+Final Product Amount [mmol/L]
+398.66160718445605
+
+Final Biomass Amount [g/L]
+16.70000016682931
+#-------------------------
